@@ -1,0 +1,2244 @@
+.carebox-home-page {
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .carebox-home-page .div {
+    background-color: #ffffff;
+    overflow: hidden;
+    width: 1440px;
+    height: 5686px;
+    position: relative;
+  }
+  
+  .carebox-home-page .overlap {
+    position: absolute;
+    width: 1566px;
+    height: 1172px;
+    top: 1433px;
+    left: -76px;
+  }
+  
+  .carebox-home-page .ellipse {
+    top: 273px;
+    left: 1332px;
+    background-color: #5ce192ab;
+    position: absolute;
+    width: 234px;
+    height: 234px;
+    border-radius: 117px;
+    box-shadow: 0px 4px 35.5px #00000026;
+  }
+  
+  .carebox-home-page .ellipse-2 {
+    top: 273px;
+    left: 0;
+    background-color: #0048ae7a;
+    position: absolute;
+    width: 234px;
+    height: 234px;
+    border-radius: 117px;
+    box-shadow: 0px 4px 35.5px #00000026;
+  }
+  
+  .carebox-home-page .ellipse-3 {
+    top: 256px;
+    left: 671px;
+    background-color: #fc7b3d52;
+    position: absolute;
+    width: 234px;
+    height: 234px;
+    border-radius: 117px;
+    box-shadow: 0px 4px 35.5px #00000026;
+  }
+  
+  .carebox-home-page .text-wrapper {
+    position: absolute;
+    height: 30px;
+    top: 616px;
+    left: 824px;
+    font-family: "Manrope-Bold", Helvetica;
+    font-weight: 700;
+    color: #ffffff;
+    font-size: 42px;
+    letter-spacing: 0;
+    line-height: 0.1px;
+  }
+  
+  .carebox-home-page .text-wrapper-2 {
+    position: absolute;
+    height: 30px;
+    top: 616px;
+    left: 1174px;
+    font-family: "Manrope-Bold", Helvetica;
+    font-weight: 700;
+    color: #ffffff;
+    font-size: 42px;
+    letter-spacing: 0;
+    line-height: 0.1px;
+  }
+  
+  .carebox-home-page .text-wrapper-3 {
+    position: absolute;
+    height: 30px;
+    top: 616px;
+    left: 274px;
+    font-family: "Manrope-Bold", Helvetica;
+    font-weight: 700;
+    color: #ffffff;
+    font-size: 42px;
+    letter-spacing: 0;
+    line-height: 0.1px;
+  }
+  
+  .carebox-home-page .frame {
+    display: flex;
+    flex-direction: column;
+    width: 1220px;
+    align-items: center;
+    gap: 105px;
+    position: absolute;
+    top: 495px;
+    left: 186px;
+  }
+  
+  .carebox-home-page .frame-2 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 62px;
+    position: relative;
+    align-self: stretch;
+    width: 100%;
+    flex: 0 0 auto;
+  }
+  
+  .carebox-home-page .div-wrapper {
+    width: 100%;
+    height: 50px;
+    position: relative;
+    align-self: stretch;
+  }
+  
+  .carebox-home-page .why-carebox {
+    position: absolute;
+    height: 50px;
+    top: -1px;
+    left: 481px;
+    font-family: "Manrope-Bold", Helvetica;
+    font-weight: 700;
+    color: transparent;
+    font-size: 40px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: 50px;
+    white-space: nowrap;
+  }
+  
+  .carebox-home-page .span {
+    color: #141d38;
+  }
+  
+  .carebox-home-page .text-wrapper-4 {
+    color: #0a50b2;
+  }
+  
+  .carebox-home-page .group {
+    position: relative;
+    width: 1163px;
+    height: 230px;
+  }
+  
+  .carebox-home-page .overlap-group {
+    position: relative;
+    height: 230px;
+  }
+  
+  .carebox-home-page .process-line-svg {
+    position: absolute;
+    width: 963px;
+    height: 90px;
+    top: 120px;
+    left: 85px;
+  }
+  
+  .carebox-home-page .background-shadow {
+    display: flex;
+    flex-direction: column;
+    width: 230px;
+    height: 230px;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    padding: 30px 13px;
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-color: #ffffff;
+    border-radius: 10px;
+    box-shadow: 0px 10px 15px #080e1c0f;
+  }
+  
+  .carebox-home-page .frame-3 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 8px;
+    position: relative;
+    align-self: stretch;
+    width: 100%;
+    flex: 0 0 auto;
+  }
+  
+  .carebox-home-page .process-card-svg {
+    position: relative;
+    width: 36px;
+    height: 40px;
+  }
+  
+  .carebox-home-page .heading-select-a {
+    position: relative;
+    width: fit-content;
+    margin-top: -1.00px;
+    font-family: "Manrope-Medium", Helvetica;
+    font-weight: 500;
+    color: #141d38;
+    font-size: 20px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .carebox-home-page .integrates-data-for {
+    position: relative;
+    align-self: stretch;
+    font-family: "Manrope-Regular", Helvetica;
+    font-weight: 400;
+    color: #737887;
+    font-size: 14px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .carebox-home-page .text-wrapper-5 {
+    font-family: "Manrope-Regular", Helvetica;
+    font-weight: 400;
+    color: #737887;
+    font-size: 14px;
+    letter-spacing: 0;
+  }
+  
+  .carebox-home-page .background {
+    position: absolute;
+    width: 60px;
+    height: 60px;
+    top: -30px;
+    left: -30px;
+    background-color: #0a50b2;
+    border-radius: 30px;
+  }
+  
+  .carebox-home-page .overlap-group-2 {
+    position: relative;
+    height: 62px;
+    top: -2px;
+  }
+  
+  .carebox-home-page .background-2 {
+    position: absolute;
+    width: 60px;
+    height: 60px;
+    top: 2px;
+    left: 0;
+    background-color: #0a50b2;
+    border-radius: 30px;
+  }
+  
+  .carebox-home-page .text-wrapper-6 {
+    left: 10px;
+    position: absolute;
+    height: 60px;
+    top: 0;
+    font-family: "Manrope-Bold", Helvetica;
+    font-weight: 700;
+    color: #ffffff;
+    font-size: 36px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: 60px;
+    white-space: nowrap;
+  }
+  
+  .carebox-home-page .background-shadow-2 {
+    display: flex;
+    flex-direction: column;
+    width: 230px;
+    height: 230px;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    padding: 16px;
+    position: absolute;
+    top: 0;
+    left: 311px;
+    background-color: #ffffff;
+    border-radius: 10px;
+    box-shadow: 0px 10px 15px #080e1c0f;
+  }
+  
+  .carebox-home-page .div-2 {
+    position: relative;
+    align-self: stretch;
+    font-family: "Manrope-Regular", Helvetica;
+    font-weight: 400;
+    color: #737887;
+    font-size: 14px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: 24.5px;
+  }
+  
+  .carebox-home-page .text-wrapper-7 {
+    font-family: "Manrope-Regular", Helvetica;
+    font-weight: 400;
+    color: #737887;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: 24.5px;
+  }
+  
+  .carebox-home-page .text-wrapper-8 {
+    position: absolute;
+    height: 60px;
+    top: 0;
+    left: 7px;
+    font-family: "Manrope-Bold", Helvetica;
+    font-weight: 700;
+    color: #ffffff;
+    font-size: 36px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: 60px;
+    white-space: nowrap;
+  }
+  
+  .carebox-home-page .background-shadow-3 {
+    display: flex;
+    flex-direction: column;
+    width: 230px;
+    height: 230px;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    padding: 16px 5px;
+    position: absolute;
+    top: 0;
+    left: 622px;
+    background-color: #ffffff;
+    border-radius: 10px;
+    box-shadow: 0px 10px 15px #080e1c0f;
+  }
+  
+  .carebox-home-page .text-wrapper-9 {
+    font-family: "Manrope-Medium", Helvetica;
+    font-weight: 500;
+    color: #141d38;
+    font-size: 20px;
+    letter-spacing: 0;
+  }
+  
+  .carebox-home-page .text-wrapper-10 {
+    left: 8px;
+    position: absolute;
+    height: 60px;
+    top: 0;
+    font-family: "Manrope-Bold", Helvetica;
+    font-weight: 700;
+    color: #ffffff;
+    font-size: 36px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: 60px;
+    white-space: nowrap;
+  }
+  
+  .carebox-home-page .background-shadow-4 {
+    display: flex;
+    flex-direction: column;
+    width: 230px;
+    height: 230px;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    padding: 16px 8px;
+    position: absolute;
+    top: 0;
+    left: 933px;
+    background-color: #ffffff;
+    border-radius: 10px;
+    box-shadow: 0px 10px 15px #080e1c0f;
+  }
+  
+  .carebox-home-page .img {
+    position: relative;
+    width: 40px;
+    height: 40px;
+  }
+  
+  .carebox-home-page .p {
+    position: relative;
+    align-self: stretch;
+    margin-top: -1.00px;
+    font-family: "Manrope-Medium", Helvetica;
+    font-weight: 500;
+    color: #141d38;
+    font-size: 20px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .carebox-home-page .ensures-data {
+    position: relative;
+    width: 177px;
+    font-family: "Manrope-Regular", Helvetica;
+    font-weight: 400;
+    color: #737887;
+    font-size: 14px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: 24.5px;
+  }
+  
+  .carebox-home-page .overlap-wrapper {
+    position: relative;
+    width: 852px;
+    height: 230px;
+  }
+  
+  .carebox-home-page .vector {
+    position: absolute;
+    width: 640px;
+    height: 89px;
+    top: 128px;
+    left: 63px;
+  }
+  
+  .carebox-home-page .text-wrapper-11 {
+    left: 9px;
+    position: absolute;
+    height: 60px;
+    top: 0;
+    font-family: "Manrope-Bold", Helvetica;
+    font-weight: 700;
+    color: #ffffff;
+    font-size: 36px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: 60px;
+    white-space: nowrap;
+  }
+  
+  .carebox-home-page .frame-4 {
+    display: inline-flex;
+    align-items: center;
+    gap: 41px;
+    padding: 39px 60px;
+    position: absolute;
+    top: 0;
+    left: 71px;
+  }
+  
+  .carebox-home-page .frame-5 {
+    position: relative;
+    width: 443.4px;
+    height: 443.4px;
+    margin-top: -9.70px;
+    margin-bottom: -17.70px;
+    margin-left: -13.70px;
+  }
+  
+  .carebox-home-page .frame-6 {
+    position: relative;
+    width: 443.4px;
+    height: 443.4px;
+    margin-top: -9.70px;
+    margin-bottom: -17.70px;
+  }
+  
+  .carebox-home-page .frame-7 {
+    position: relative;
+    width: 443.4px;
+    height: 443.4px;
+    margin-top: -9.70px;
+    margin-bottom: -17.70px;
+    margin-right: -13.70px;
+  }
+  
+  .carebox-home-page .overlap-2 {
+    position: absolute;
+    width: 1456px;
+    height: 920px;
+    top: 0;
+    left: 0;
+  }
+  
+  .carebox-home-page .section {
+    position: absolute;
+    width: 1440px;
+    height: 907px;
+    top: 13px;
+    left: 16px;
+    background-color: #0048ae;
+  }
+  
+  .carebox-home-page .overlap-3 {
+    position: absolute;
+    width: 1440px;
+    height: 712px;
+    top: 553px;
+    left: 0;
+  }
+  
+  .carebox-home-page .overlap-4 {
+    position: absolute;
+    width: 1440px;
+    height: 712px;
+    top: 0;
+    left: 0;
+  }
+  
+  .carebox-home-page .container {
+    position: absolute;
+    width: 1440px;
+    height: 172px;
+    top: 183px;
+    left: 0;
+    overflow: hidden;
+    transform: rotate(180deg);
+  }
+  
+  .carebox-home-page .SVG {
+    position: relative;
+    width: 1921px;
+    height: 172px;
+    left: -1px;
+    transform: rotate(180deg);
+  }
+  
+  .carebox-home-page .overlap-group-3 {
+    position: relative;
+    width: 1424px;
+    height: 172px;
+    left: 17px;
+  }
+  
+  .carebox-home-page .vector-2 {
+    position: absolute;
+    width: 1424px;
+    height: 172px;
+    top: 0;
+    left: 0;
+    transform: rotate(-180deg);
+  }
+  
+  .carebox-home-page .rectangle {
+    position: absolute;
+    width: 72px;
+    height: 14px;
+    top: 68px;
+    left: 1121px;
+    background-color: #ffffff;
+  }
+  
+  .carebox-home-page .group-2 {
+    position: absolute;
+    width: 1184px;
+    height: 613px;
+    top: 98px;
+    left: 213px;
+  }
+  
+  .carebox-home-page .SVG-2 {
+    position: absolute;
+    width: 25px;
+    height: 25px;
+    top: 86px;
+    left: 143px;
+  }
+  
+  .carebox-home-page .group-3 {
+    position: absolute;
+    width: 25px;
+    height: 25px;
+    top: 61px;
+    left: 58px;
+  }
+  
+  .carebox-home-page .component {
+    position: absolute;
+    width: 263px;
+    height: 263px;
+    top: 0;
+    left: 61px;
+  }
+  
+  .carebox-home-page .group-4 {
+    position: absolute;
+    width: 25px;
+    height: 25px;
+    top: 114px;
+    left: 19px;
+  }
+  
+  .carebox-home-page .SVG-3 {
+    position: absolute;
+    width: 16px;
+    height: 16px;
+    top: 132px;
+    left: 260px;
+  }
+  
+  .carebox-home-page .SVG-4 {
+    position: absolute;
+    width: 25px;
+    height: 25px;
+    top: 456px;
+    left: 1178px;
+  }
+  
+  .carebox-home-page .text-wrapper-12 {
+    position: absolute;
+    width: 51px;
+    height: 24px;
+    top: 162px;
+    left: 591px;
+    font-family: "Manrope-SemiBold", Helvetica;
+    font-weight: 600;
+    color: #0048ae;
+    font-size: 18px;
+    letter-spacing: 0;
+    line-height: 40px;
+    white-space: nowrap;
+  }
+  
+  .carebox-home-page .SVG-5 {
+    position: absolute;
+    width: 18px;
+    height: 18px;
+    top: 168px;
+    left: 1246px;
+  }
+  
+  .carebox-home-page .overlap-5 {
+    position: absolute;
+    width: 1440px;
+    height: 613px;
+    top: 651px;
+    left: 0;
+  }
+  
+  .carebox-home-page .SVG-wrapper {
+    position: absolute;
+    width: 1440px;
+    height: 172px;
+    top: 85px;
+    left: 0;
+    overflow: hidden;
+    transform: rotate(180deg);
+  }
+  
+  .carebox-home-page .group-5 {
+    position: absolute;
+    width: 1184px;
+    height: 613px;
+    top: 0;
+    left: 213px;
+  }
+  
+  .carebox-home-page .component-2 {
+    position: absolute;
+    width: 35px;
+    height: 35px;
+    top: 479px;
+    left: 1117px;
+  }
+  
+  .carebox-home-page .component-3 {
+    position: absolute;
+    width: 35px;
+    height: 35px;
+    top: 169px;
+    left: 1236px;
+  }
+  
+  .carebox-home-page .component-4 {
+    top: 167px;
+    left: 269px;
+    position: absolute;
+    width: 35px;
+    height: 35px;
+  }
+  
+  .carebox-home-page .component-5 {
+    top: 604px;
+    left: 197px;
+    position: absolute;
+    width: 35px;
+    height: 35px;
+  }
+  
+  .carebox-home-page .frame-8 {
+    display: flex;
+    flex-direction: column;
+    width: 903px;
+    align-items: center;
+    gap: 24px;
+    position: absolute;
+    top: 210px;
+    left: 269px;
+  }
+  
+  .carebox-home-page .your-partner-in-wrapper {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 12px;
+    position: relative;
+    align-self: stretch;
+    width: 100%;
+    flex: 0 0 auto;
+  }
+  
+  .carebox-home-page .your-partner-in {
+    position: relative;
+    align-self: stretch;
+    height: 197px;
+    margin-top: -1.00px;
+    font-family: "Manrope-ExtraBold", Helvetica;
+    font-weight: 800;
+    color: #fffeff;
+    font-size: 57px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .carebox-home-page .we-combine-expertise {
+    position: relative;
+    align-self: stretch;
+    height: 22px;
+    font-family: "Manrope-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 17px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .carebox-home-page .frame-9 {
+    display: flex;
+    width: 211px;
+    height: 70px;
+    align-items: center;
+    justify-content: center;
+    gap: 6px;
+    position: relative;
+    background-color: #5ce192;
+    border-radius: 100px;
+  }
+  
+  .carebox-home-page .icon {
+    position: relative;
+    width: 16px;
+    height: 16px;
+  }
+  
+  .carebox-home-page .request-a-demo {
+    position: relative;
+    width: 129px;
+    height: 23px;
+    font-family: "Inter-Medium", Helvetica;
+    font-weight: 500;
+    color: #ffffff;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: 0.1px;
+  }
+  
+  .carebox-home-page .text-wrapper-13 {
+    font-family: "Inter-Medium", Helvetica;
+    font-weight: 500;
+    color: #ffffff;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: 0.1px;
+  }
+  
+  .carebox-home-page .navbar {
+    position: absolute;
+    width: 1440px;
+    height: 90px;
+    top: 0;
+    left: 0;
+    background-color: #ffffff;
+  }
+  
+  .carebox-home-page .overlap-6 {
+    position: absolute;
+    width: 174px;
+    height: 47px;
+    top: 21px;
+    left: 1143px;
+  }
+  
+  .carebox-home-page .list {
+    position: absolute;
+    width: 120px;
+    height: 26px;
+    top: 11px;
+    left: 0;
+  }
+  
+  .carebox-home-page .item-link {
+    position: absolute;
+    width: 30px;
+    height: 26px;
+    top: 0;
+    left: 0;
+  }
+  
+  .carebox-home-page .symbol {
+    position: absolute;
+    width: 14px;
+    height: 14px;
+    top: 4px;
+    left: 16px;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #666666;
+    font-size: 14px;
+    text-align: right;
+    letter-spacing: 0;
+    line-height: 14px;
+    white-space: nowrap;
+  }
+  
+  .carebox-home-page .symbol-wrapper {
+    left: 30px;
+    position: absolute;
+    width: 30px;
+    height: 26px;
+    top: 0;
+  }
+  
+  .carebox-home-page .item-link-2 {
+    left: 60px;
+    position: absolute;
+    width: 30px;
+    height: 26px;
+    top: 0;
+  }
+  
+  .carebox-home-page .item-link-3 {
+    left: 90px;
+    position: absolute;
+    width: 30px;
+    height: 26px;
+    top: 0;
+  }
+  
+  .carebox-home-page .link {
+    position: absolute;
+    width: 129px;
+    height: 47px;
+    top: 0;
+    left: 45px;
+    background-color: #5ce192;
+    border-radius: 25px;
+    overflow: hidden;
+  }
+  
+  .carebox-home-page .gradient {
+    position: absolute;
+    width: 100px;
+    height: 55px;
+    top: -3px;
+    left: 141px;
+    background: linear-gradient(
+      180deg,
+      rgba(255, 255, 255, 0) 0%,
+      rgba(255, 255, 255, 0.2) 100%
+    );
+    opacity: 0.07;
+  }
+  
+  .carebox-home-page .sign-IN {
+    position: absolute;
+    width: 113px;
+    height: 21px;
+    top: 12px;
+    left: 8px;
+    font-family: "Manrope-SemiBold", Helvetica;
+    font-weight: 600;
+    color: #ffffff;
+    font-size: 16px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: 25px;
+    white-space: nowrap;
+  }
+  
+  .carebox-home-page .text-wrapper-14 {
+    font-family: "Manrope-SemiBold", Helvetica;
+    font-weight: 600;
+    color: #ffffff;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: 25px;
+  }
+  
+  .carebox-home-page .logo-png {
+    position: absolute;
+    width: 126px;
+    height: 55px;
+    top: 18px;
+    left: 105px;
+    background-image: url(./img/logo-png.png);
+    background-size: cover;
+    background-position: 50% 50%;
+  }
+  
+  .carebox-home-page .frame-10 {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    gap: 52px;
+    position: absolute;
+    top: 25px;
+    left: 382px;
+  }
+  
+  .carebox-home-page .text-wrapper-15 {
+    position: relative;
+    width: 50.6px;
+    height: 24px;
+    font-family: "Manrope-SemiBold", Helvetica;
+    font-weight: 600;
+    color: #5ce192;
+    font-size: 18px;
+    letter-spacing: 0;
+    line-height: 40px;
+    white-space: nowrap;
+  }
+  
+  .carebox-home-page .text-wrapper-16 {
+    position: relative;
+    width: 82.11px;
+    height: 24px;
+    font-family: "Manrope-SemiBold", Helvetica;
+    font-weight: 600;
+    color: #202122;
+    font-size: 18px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: 40px;
+    white-space: nowrap;
+  }
+  
+  .carebox-home-page .text-wrapper-17 {
+    position: relative;
+    width: fit-content;
+    margin-top: -1.00px;
+    font-family: "Manrope-SemiBold", Helvetica;
+    font-weight: 600;
+    color: #202122;
+    font-size: 18px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: 40px;
+    white-space: nowrap;
+  }
+  
+  .carebox-home-page .text-wrapper-18 {
+    position: relative;
+    width: 97.35px;
+    height: 24px;
+    font-family: "Manrope-SemiBold", Helvetica;
+    font-weight: 600;
+    color: #202122;
+    font-size: 18px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: 40px;
+    white-space: nowrap;
+  }
+  
+  .carebox-home-page .frame-11 {
+    display: flex;
+    flex-direction: column;
+    width: 524px;
+    align-items: center;
+    gap: 16px;
+    position: absolute;
+    top: 1289px;
+    left: 458px;
+  }
+  
+  .carebox-home-page .unique-features {
+    position: relative;
+    align-self: stretch;
+    margin-top: -1.00px;
+    font-family: "Manrope-Bold", Helvetica;
+    font-weight: 700;
+    color: transparent;
+    font-size: 40px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .carebox-home-page .text-wrapper-19 {
+    color: #0048ae;
+  }
+  
+  .carebox-home-page .dive-into-our {
+    position: relative;
+    width: fit-content;
+    margin-left: -2.50px;
+    margin-right: -2.50px;
+    font-family: "Manrope-Regular", Helvetica;
+    font-weight: 400;
+    color: #395277;
+    font-size: 17px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: 29px;
+  }
+  
+  .carebox-home-page .frame-12 {
+    display: flex;
+    width: 1288px;
+    align-items: center;
+    justify-content: space-between;
+    position: absolute;
+    top: 2667px;
+    left: 76px;
+  }
+  
+  .carebox-home-page .frame-13 {
+    display: flex;
+    flex-direction: column;
+    width: 634px;
+    height: 416px;
+    align-items: center;
+    justify-content: flex-end;
+    gap: 32px;
+    padding: 42px 0px;
+    position: relative;
+    background-color: #d8e7fe40;
+    border-radius: 20px;
+    border: 1px solid;
+    border-color: #d8e7fe1a;
+    backdrop-filter: blur(19.2px) brightness(100%);
+    -webkit-backdrop-filter: blur(19.2px) brightness(100%);
+  }
+  
+  .carebox-home-page .background-shadow-5 {
+    position: relative;
+    width: 92.5px;
+    height: 95px;
+  }
+  
+  .carebox-home-page .frame-wrapper {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 24px;
+    position: relative;
+    align-self: stretch;
+    width: 100%;
+    flex: 0 0 auto;
+  }
+  
+  .carebox-home-page .frame-14 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 24px;
+    position: relative;
+    align-self: stretch;
+    width: 100%;
+    flex: 0 0 auto;
+  }
+  
+  .carebox-home-page .text-wrapper-20 {
+    position: relative;
+    align-self: stretch;
+    margin-top: -1.00px;
+    font-family: "Manrope-Bold", Helvetica;
+    font-weight: 700;
+    color: #0048ae;
+    font-size: 32px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: 0.1px;
+  }
+  
+  .carebox-home-page .div-3 {
+    position: relative;
+    width: 586px;
+    font-family: "Manrope-Regular", Helvetica;
+    font-weight: 400;
+    color: #395277;
+    font-size: 16px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: 29px;
+  }
+  
+  .carebox-home-page .text-wrapper-21 {
+    font-family: "Manrope-Regular", Helvetica;
+    font-weight: 400;
+    color: #395277;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: 29px;
+  }
+  
+  .carebox-home-page .frame-15 {
+    display: flex;
+    flex-direction: column;
+    width: 634px;
+    height: 416px;
+    align-items: center;
+    justify-content: flex-end;
+    gap: 32px;
+    padding: 42px 0px;
+    position: relative;
+    background-color: #f5f9fe;
+    border-radius: 20px;
+    border: 1px solid;
+    border-color: #d8e7fe1a;
+    backdrop-filter: blur(19.2px) brightness(100%);
+    -webkit-backdrop-filter: blur(19.2px) brightness(100%);
+  }
+  
+  .carebox-home-page .text-wrapper-22 {
+    position: relative;
+    align-self: stretch;
+    margin-top: -1.00px;
+    font-family: "Manrope-Bold", Helvetica;
+    font-weight: 700;
+    color: #0048ae;
+    font-size: 32px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: 24px;
+  }
+  
+  .carebox-home-page .section-2 {
+    height: 790px;
+    top: 3145px;
+    background-color: #f5f9fe;
+    position: absolute;
+    width: 1440px;
+    left: 0;
+  }
+  
+  .carebox-home-page .frame-16 {
+    display: flex;
+    flex-direction: column;
+    width: 1244px;
+    align-items: flex-start;
+    gap: 42px;
+    position: relative;
+    top: 113px;
+    left: 98px;
+  }
+  
+  .carebox-home-page .see-our-skilled {
+    position: absolute;
+    height: 50px;
+    top: -1px;
+    left: 352px;
+    font-family: "Manrope-Bold", Helvetica;
+    font-weight: 700;
+    color: transparent;
+    font-size: 40px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: 50px;
+    white-space: nowrap;
+  }
+  
+  .carebox-home-page .container-2 {
+    position: relative;
+    align-self: stretch;
+    width: 100%;
+    height: 470.89px;
+  }
+  
+  .carebox-home-page .group-6 {
+    position: absolute;
+    width: 391px;
+    height: 420px;
+    top: 25px;
+    left: 12px;
+    background-color: #ffffff;
+    border-radius: 10px;
+    box-shadow: 0px 4px 15px #080e1c1a;
+  }
+  
+  .carebox-home-page .overlap-7 {
+    position: absolute;
+    width: 351px;
+    height: 349px;
+    top: 20px;
+    left: 20px;
+  }
+  
+  .carebox-home-page .heading-link-alex {
+    position: absolute;
+    height: 34px;
+    top: 315px;
+    left: 113px;
+    font-family: "Manrope-Bold", Helvetica;
+    font-weight: 700;
+    color: #141d38;
+    font-size: 24px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: 34.0px;
+    white-space: nowrap;
+  }
+  
+  .carebox-home-page .overlap-group-4 {
+    position: absolute;
+    width: 351px;
+    height: 318px;
+    top: 0;
+    left: 0;
+  }
+  
+  .carebox-home-page .container-3 {
+    position: absolute;
+    width: 351px;
+    height: 300px;
+    top: 0;
+    left: 0;
+    border-radius: 10px;
+    background-image: url(./img/team-3-2-jpg.png);
+    background-size: cover;
+    background-position: 50% 50%;
+  }
+  
+  .carebox-home-page .background-3 {
+    position: absolute;
+    width: 36px;
+    height: 36px;
+    top: 282px;
+    left: 287px;
+    background-color: #0a50b2;
+    border-radius: 18px;
+  }
+  
+  .carebox-home-page .text-wrapper-23 {
+    position: absolute;
+    width: 18px;
+    height: 21px;
+    top: 6px;
+    left: 9px;
+    font-family: "Font Awesome 5 Free-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 20px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: 36px;
+    white-space: nowrap;
+  }
+  
+  .carebox-home-page .text-wrapper-24 {
+    position: absolute;
+    height: 22px;
+    top: 372px;
+    left: 159px;
+    font-family: "Manrope-Medium", Helvetica;
+    font-weight: 500;
+    color: #0a50b2;
+    font-size: 16px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .carebox-home-page .group-7 {
+    position: absolute;
+    width: 391px;
+    height: 421px;
+    top: 25px;
+    left: 427px;
+    background-color: #ffffff;
+    border-radius: 10px;
+    box-shadow: 0px 4px 15px #080e1c1a;
+  }
+  
+  .carebox-home-page .overlap-8 {
+    position: absolute;
+    width: 351px;
+    height: 350px;
+    top: 20px;
+    left: 20px;
+  }
+  
+  .carebox-home-page .heading-link-mary {
+    position: absolute;
+    height: 34px;
+    top: 316px;
+    left: 95px;
+    font-family: "Manrope-Bold", Helvetica;
+    font-weight: 700;
+    color: #141d38;
+    font-size: 24px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: 34.0px;
+    white-space: nowrap;
+  }
+  
+  .carebox-home-page .overlap-9 {
+    position: absolute;
+    width: 351px;
+    height: 319px;
+    top: 0;
+    left: 0;
+  }
+  
+  .carebox-home-page .container-4 {
+    position: absolute;
+    width: 351px;
+    height: 301px;
+    top: 0;
+    left: 0;
+    border-radius: 10px;
+    background-image: url(./img/team-3-4-jpg-2.png);
+    background-size: cover;
+    background-position: 50% 50%;
+  }
+  
+  .carebox-home-page .background-4 {
+    position: absolute;
+    width: 36px;
+    height: 36px;
+    top: 283px;
+    left: 287px;
+    background-color: #0a50b2;
+    border-radius: 18px;
+  }
+  
+  .carebox-home-page .text-wrapper-25 {
+    position: absolute;
+    height: 22px;
+    top: 373px;
+    left: 122px;
+    font-family: "Manrope-Medium", Helvetica;
+    font-weight: 500;
+    color: #0a50b2;
+    font-size: 16px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .carebox-home-page .group-8 {
+    position: absolute;
+    width: 391px;
+    height: 421px;
+    top: 25px;
+    left: 841px;
+    background-color: #ffffff;
+    border-radius: 10px;
+    box-shadow: 0px 4px 15px #080e1c1a;
+  }
+  
+  .carebox-home-page .heading-link-henry {
+    position: absolute;
+    height: 34px;
+    top: 316px;
+    left: 76px;
+    font-family: "Manrope-Bold", Helvetica;
+    font-weight: 700;
+    color: #141d38;
+    font-size: 24px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: 34.0px;
+    white-space: nowrap;
+  }
+  
+  .carebox-home-page .container-5 {
+    position: absolute;
+    width: 351px;
+    height: 301px;
+    top: 0;
+    left: 0;
+    border-radius: 10px;
+    background-image: url(./img/team-3-4-jpg.png);
+    background-size: cover;
+    background-position: 50% 50%;
+  }
+  
+  .carebox-home-page .text-wrapper-26 {
+    position: absolute;
+    height: 26px;
+    top: 371px;
+    left: 147px;
+    font-family: "Manrope-Medium", Helvetica;
+    font-weight: 500;
+    color: #0a50b2;
+    font-size: 16px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: 26px;
+    white-space: nowrap;
+  }
+  
+  .carebox-home-page .section-3 {
+    height: 439px;
+    top: 3935px;
+    background-color: #0048ae;
+    position: absolute;
+    width: 1440px;
+    left: 0;
+  }
+  
+  .carebox-home-page .frame-17 {
+    display: flex;
+    flex-direction: column;
+    width: 1244px;
+    align-items: center;
+    gap: 31px;
+    position: absolute;
+    top: 61px;
+    left: 98px;
+  }
+  
+  .carebox-home-page .heading {
+    position: relative;
+    width: 540px;
+    height: 100px;
+  }
+  
+  .carebox-home-page .what-happy-clients {
+    position: absolute;
+    height: 100px;
+    top: -1px;
+    left: 29px;
+    font-family: "Manrope-Bold", Helvetica;
+    font-weight: 700;
+    color: transparent;
+    font-size: 40px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: 50px;
+  }
+  
+  .carebox-home-page .text-wrapper-27 {
+    color: #ffffff;
+  }
+  
+  .carebox-home-page .text-wrapper-28 {
+    color: #5ce192;
+  }
+  
+  .carebox-home-page .container-6 {
+    position: relative;
+    align-self: stretch;
+    width: 100%;
+    height: 465.64px;
+  }
+  
+  .carebox-home-page .group-9 {
+    position: absolute;
+    width: 391px;
+    height: 366px;
+    top: 75px;
+    left: 12px;
+    background-color: #ffffff;
+    border-radius: 10px;
+    box-shadow: 0px 6px 15px #080e1c0f;
+  }
+  
+  .carebox-home-page .lorem-ipsum-dolor {
+    position: absolute;
+    width: 310px;
+    height: 140px;
+    top: 119px;
+    left: 40px;
+    font-family: "Manrope-Regular", Helvetica;
+    font-weight: 400;
+    color: #737887;
+    font-size: 16px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: 28px;
+  }
+  
+  .carebox-home-page .frame-18 {
+    display: flex;
+    flex-direction: column;
+    width: 178px;
+    align-items: center;
+    justify-content: center;
+    gap: 5px;
+    position: absolute;
+    top: 269px;
+    left: 106px;
+  }
+  
+  .carebox-home-page .text-wrapper-29 {
+    margin-top: -1.00px;
+    font-family: "Manrope-Bold", Helvetica;
+    font-weight: 700;
+    color: #141d38;
+    font-size: 24px;
+    letter-spacing: 0;
+    line-height: 34.0px;
+    position: relative;
+    align-self: stretch;
+  }
+  
+  .carebox-home-page .text-wrapper-30 {
+    height: 20px;
+    font-family: "Roboto-Regular", Helvetica;
+    white-space: nowrap;
+    position: relative;
+    align-self: stretch;
+    font-weight: 400;
+    color: #737887;
+    font-size: 14px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: 24.5px;
+  }
+  
+  .carebox-home-page .background-border {
+    position: absolute;
+    width: 120px;
+    height: 120px;
+    top: -50px;
+    left: 135px;
+    border-radius: 10px;
+    box-shadow: 0px 4px 15px #080e1c1a;
+    background-image: url(./img/background-border.png);
+    background-size: cover;
+    background-position: 50% 50%;
+  }
+  
+  .carebox-home-page .overlap-group-wrapper {
+    position: relative;
+    width: 36px;
+    height: 36px;
+    top: 92px;
+    left: 42px;
+    background-color: #0a50b2;
+    border-radius: 18px;
+  }
+  
+  .carebox-home-page .overlap-group-5 {
+    position: relative;
+    height: 36px;
+    background-color: #0a50b2;
+    border-radius: 18px;
+  }
+  
+  .carebox-home-page .background-5 {
+    position: absolute;
+    width: 36px;
+    height: 36px;
+    top: 0;
+    left: 0;
+    background-color: #0a50b2;
+    border-radius: 18px;
+  }
+  
+  .carebox-home-page .quote-left-svg {
+    position: absolute;
+    width: 20px;
+    height: 16px;
+    top: 12px;
+    left: 8px;
+  }
+  
+  .carebox-home-page .frame-19 {
+    position: absolute;
+    width: 82px;
+    height: 14px;
+    top: 90px;
+    left: 154px;
+  }
+  
+  .carebox-home-page .group-10 {
+    position: absolute;
+    width: 391px;
+    height: 366px;
+    top: 75px;
+    left: 427px;
+    background-color: #ffffff;
+    border-radius: 10px;
+    box-shadow: 0px 6px 15px #080e1c0f;
+  }
+  
+  .carebox-home-page .frame-20 {
+    display: flex;
+    flex-direction: column;
+    width: 174px;
+    align-items: center;
+    gap: 3px;
+    position: absolute;
+    top: 269px;
+    left: 108px;
+  }
+  
+  .carebox-home-page .background-border-2 {
+    position: absolute;
+    width: 120px;
+    height: 120px;
+    top: -50px;
+    left: 135px;
+    background-color: #ffffff;
+    border-radius: 10px;
+    box-shadow: 0px 4px 15px #080e1c1a;
+  }
+  
+  .carebox-home-page .overlap-10 {
+    position: relative;
+    width: 100px;
+    height: 118px;
+    top: 10px;
+    left: 10px;
+  }
+  
+  .carebox-home-page .testi-jpg {
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    top: 0;
+    left: 0;
+    border-radius: 10px;
+    background-image: url(./img/testi-3-3-jpg.png);
+    background-size: cover;
+    background-position: 50% 50%;
+  }
+  
+  .carebox-home-page .background-6 {
+    position: absolute;
+    width: 36px;
+    height: 36px;
+    top: 82px;
+    left: 32px;
+    background-color: #0a50b2;
+    border-radius: 18px;
+  }
+  
+  .carebox-home-page .frame-21 {
+    position: absolute;
+    width: 82px;
+    height: 14px;
+    top: 90px;
+    left: 153px;
+  }
+  
+  .carebox-home-page .group-11 {
+    position: absolute;
+    width: 391px;
+    height: 366px;
+    top: 75px;
+    left: 841px;
+    background-color: #ffffff;
+    border-radius: 10px;
+    box-shadow: 0px 6px 15px #080e1c0f;
+  }
+  
+  .carebox-home-page .frame-22 {
+    display: flex;
+    flex-direction: column;
+    width: 169px;
+    align-items: flex-start;
+    gap: 3px;
+    position: absolute;
+    top: 269px;
+    left: 111px;
+  }
+  
+  .carebox-home-page .testi-jpg-2 {
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    top: 0;
+    left: 0;
+    border-radius: 10px;
+    background-image: url(./img/testi-3-4-jpg.png);
+    background-size: cover;
+    background-position: 50% 50%;
+  }
+  
+  .carebox-home-page .component-6 {
+    position: absolute;
+    width: 35px;
+    height: 35px;
+    top: 61px;
+    left: 37px;
+  }
+  
+  .carebox-home-page .overlap-11 {
+    position: absolute;
+    width: 1248px;
+    height: 377px;
+    top: 4655px;
+    left: 94px;
+  }
+  
+  .call-1svg-icon {
+    width: 100%;
+    position: relative;
+    max-width: 100%;
+    overflow: hidden;
+    height: 107px;
+    }
+    
+  
+  .carebox-home-page .container-7 {
+    position: absolute;
+    width: 1244px;
+    height: 370px;
+    top: 0;
+    left: 4px;
+  }
+  
+  .carebox-home-page .image {
+    position: absolute;
+    width: 437px;
+    height: 370px;
+    top: 0;
+    left: -4px;
+    object-fit: cover;
+  }
+  
+  .carebox-home-page .let-s-talk-about-wrapper {
+    position: absolute;
+    width: 613px;
+    height: 100px;
+    top: 115px;
+    left: 521px;
+  }
+  
+  .carebox-home-page .let-s-talk-about {
+    position: absolute;
+    height: 100px;
+    top: -1px;
+    left: 0;
+    font-family: "Manrope-Bold", Helvetica;
+    font-weight: 700;
+    color: transparent;
+    font-size: 40px;
+    letter-spacing: 0;
+    line-height: 50px;
+  }
+  
+  .carebox-home-page .link-2 {
+    position: absolute;
+    width: 144px;
+    height: 55px;
+    top: 245px;
+    left: 521px;
+    background-color: #0a50b2;
+    border-radius: 4px;
+    overflow: hidden;
+  }
+  
+  .carebox-home-page .contact-us {
+    position: absolute;
+    height: 14px;
+    top: 20px;
+    left: 18px;
+    font-family: "Manrope-Medium", Helvetica;
+    font-weight: 500;
+    color: #ffffff;
+    font-size: 14px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: 14px;
+    white-space: nowrap;
+  }
+  
+  .carebox-home-page .icon-2 {
+    position: absolute;
+    width: 12px;
+    height: 14px;
+    top: 20px;
+    left: 112px;
+  }
+  
+  .carebox-home-page .footer {
+    position: absolute;
+    width: 1440px;
+    height: 599px;
+    top: 5087px;
+    left: 0;
+    background-color: #0048ae;
+  }
+  
+  .carebox-home-page .overlap-12 {
+    position: absolute;
+    width: 1440px;
+    height: 522px;
+    top: 0;
+    left: 0;
+  }
+  
+  .carebox-home-page .background-7 {
+    position: absolute;
+    width: 1440px;
+    height: 522px;
+    top: 0;
+    left: 0;
+    background-color: #0a50b2;
+  }
+  
+  .carebox-home-page .overlap-13 {
+    position: relative;
+    width: 1280px;
+    height: 289px;
+    top: 137px;
+    left: 80px;
+  }
+  
+  .carebox-home-page .container-8 {
+    position: absolute;
+    width: 1280px;
+    height: 1px;
+    top: 3px;
+    left: 0;
+  }
+  
+  .carebox-home-page .frame-23 {
+    display: inline-flex;
+    align-items: flex-start;
+    gap: 82px;
+    position: absolute;
+    top: 0;
+    left: 1px;
+  }
+  
+  .carebox-home-page .frame-24 {
+    display: flex;
+    flex-direction: column;
+    width: 371px;
+    align-items: flex-start;
+    gap: 52px;
+    position: relative;
+  }
+  
+  .carebox-home-page .frame-25 {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 16px;
+    position: relative;
+    align-self: stretch;
+    width: 100%;
+    flex: 0 0 auto;
+  }
+  
+  .carebox-home-page .group-12 {
+    position: relative;
+    width: 241px;
+    height: 56.05px;
+  }
+  
+  .carebox-home-page .lorem-ipsum-dolor-2 {
+    position: relative;
+    align-self: stretch;
+    height: 97px;
+    font-family: "Manrope-SemiBold", Helvetica;
+    font-weight: 600;
+    color: #cbcfd6;
+    font-size: 17px;
+    letter-spacing: 0;
+    line-height: 25px;
+  }
+  
+  .carebox-home-page .overlap-14 {
+    position: relative;
+    width: 371px;
+    height: 50px;
+    border-radius: 10px;
+  }
+  
+  .carebox-home-page .label-input {
+    position: absolute;
+    width: 371px;
+    height: 50px;
+    top: 0;
+    left: 0;
+    background-color: #ffffff;
+    border-radius: 10px;
+    overflow: hidden;
+    border: 1px solid;
+    border-color: #cec6ef;
+  }
+  
+  .carebox-home-page .container-wrapper {
+    width: 369px;
+    height: 48px;
+    background-image: url(./img/mesage-icon-svg-fill.svg);
+    background-size: 100% 100%;
+  }
+  
+  .carebox-home-page .enter-your-email-wrapper {
+    position: relative;
+    width: 303px;
+    height: 15px;
+    top: 17px;
+    left: 54px;
+  }
+  
+  .carebox-home-page .enter-your-email {
+    position: absolute;
+    width: 91px;
+    height: 15px;
+    top: -1px;
+    left: 0;
+    font-family: "Manrope-Regular", Helvetica;
+    font-weight: 400;
+    color: #777777;
+    font-size: 12px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .carebox-home-page .vertical-divider {
+    position: absolute;
+    width: 1px;
+    height: 18px;
+    top: 15px;
+    left: 46px;
+    background-color: #b4b5d4;
+  }
+  
+  .carebox-home-page .button {
+    position: absolute;
+    width: 45px;
+    height: 42px;
+    top: 4px;
+    left: 322px;
+  }
+  
+  .carebox-home-page .frame-26 {
+    display: inline-flex;
+    align-items: flex-start;
+    gap: 82px;
+    position: relative;
+    flex: 0 0 auto;
+  }
+  
+  .carebox-home-page .frame-27 {
+    display: flex;
+    flex-direction: column;
+    width: 162.39px;
+    align-items: flex-start;
+    gap: 32px;
+    position: relative;
+  }
+  
+  .carebox-home-page .frame-28 {
+    display: flex;
+    flex-direction: column;
+    width: 129px;
+    align-items: flex-start;
+    gap: 18px;
+    position: relative;
+    flex: 0 0 auto;
+  }
+  
+  .carebox-home-page .text-wrapper-31 {
+    position: relative;
+    align-self: stretch;
+    margin-top: -1.00px;
+    font-family: "Manrope-Bold", Helvetica;
+    font-weight: 700;
+    color: #ffffff;
+    font-size: 20px;
+    letter-spacing: 1.00px;
+    line-height: 20px;
+  }
+  
+  .carebox-home-page .horizontal-divider {
+    position: relative;
+    width: 40px;
+    height: 1px;
+    background-color: #ffffff;
+  }
+  
+  .carebox-home-page .frame-29 {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 10px;
+    position: relative;
+    align-self: stretch;
+    width: 100%;
+    flex: 0 0 auto;
+  }
+  
+  .carebox-home-page .text-wrapper-32 {
+    position: relative;
+    align-self: stretch;
+    margin-top: -1.00px;
+    font-family: "Manrope-SemiBold", Helvetica;
+    font-weight: 600;
+    color: #cbcfd6;
+    font-size: 17px;
+    letter-spacing: 0;
+    line-height: 23.8px;
+  }
+  
+  .carebox-home-page .text-wrapper-33 {
+    position: relative;
+    align-self: stretch;
+    font-family: "Manrope-SemiBold", Helvetica;
+    font-weight: 600;
+    color: #cbcfd6;
+    font-size: 17px;
+    letter-spacing: 0;
+    line-height: 23.8px;
+  }
+  
+  .carebox-home-page .frame-30 {
+    display: flex;
+    flex-direction: column;
+    width: 164.07px;
+    align-items: flex-start;
+    gap: 32px;
+    position: relative;
+  }
+  
+  .carebox-home-page .frame-31 {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 15px;
+    position: relative;
+    align-self: stretch;
+    width: 100%;
+    flex: 0 0 auto;
+  }
+  
+  .carebox-home-page .text-wrapper-34 {
+    position: relative;
+    align-self: stretch;
+    height: 25px;
+    margin-top: -1.00px;
+    font-family: "Manrope-Bold", Helvetica;
+    font-weight: 700;
+    color: #ffffff;
+    font-size: 20px;
+    letter-spacing: 1.00px;
+    line-height: 20px;
+  }
+  
+  .carebox-home-page .frame-32 {
+    display: flex;
+    flex-direction: column;
+    width: 335px;
+    align-items: flex-start;
+    gap: 32px;
+    position: relative;
+  }
+  
+  .carebox-home-page .frame-33 {
+    display: flex;
+    flex-direction: column;
+    width: 116.51px;
+    align-items: flex-start;
+    gap: 18px;
+    position: relative;
+    flex: 0 0 auto;
+  }
+  
+  .carebox-home-page .frame-34 {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 24px;
+    position: relative;
+    align-self: stretch;
+    width: 100%;
+    flex: 0 0 auto;
+  }
+  
+  .carebox-home-page .frame-35 {
+    display: flex;
+    align-items: flex-start;
+    justify-content: center;
+    gap: 11px;
+    position: relative;
+    align-self: stretch;
+    width: 100%;
+    flex: 0 0 auto;
+  }
+  
+  .carebox-home-page .background-border-3 {
+    position: relative;
+    width: 42px;
+    height: 42px;
+    background-color: #0e53b3;
+    border-radius: 21px;
+    border: 2px solid;
+    border-color: #2a66b9;
+  }
+  
+  .carebox-home-page .symbol-2 {
+    width: 18px;
+    left: 12px;
+    position: absolute;
+    height: 16px;
+    top: 11px;
+    font-family: "Font Awesome 5 Free-Solid", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 16px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: 39px;
+    white-space: nowrap;
+  }
+  
+  .carebox-home-page .visit-our-office {
+    position: relative;
+    width: 282px;
+    height: 81px;
+    margin-top: -1.00px;
+    font-family: "Manrope-SemiBold", Helvetica;
+    font-weight: 600;
+    color: transparent;
+    font-size: 17px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .carebox-home-page .text-wrapper-35 {
+    color: #cbcfd6;
+  }
+  
+  .carebox-home-page .item {
+    position: relative;
+    align-self: stretch;
+    width: 100%;
+    height: 42px;
+  }
+  
+  .carebox-home-page .background-border-4 {
+    position: absolute;
+    width: 42px;
+    height: 42px;
+    top: 0;
+    left: 0;
+    background-color: #0e53b3;
+    border-radius: 21px;
+    border: 2px solid;
+    border-color: #2a66b9;
+  }
+  
+  .carebox-home-page .symbol-3 {
+    width: 16px;
+    left: 13px;
+    position: absolute;
+    height: 16px;
+    top: 11px;
+    font-family: "Font Awesome 5 Free-Solid", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 16px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: 39px;
+    white-space: nowrap;
+  }
+  
+  .carebox-home-page .email-us-info {
+    position: absolute;
+    width: 195px;
+    height: 43px;
+    top: -2px;
+    left: 57px;
+    font-family: "Manrope-SemiBold", Helvetica;
+    font-weight: 600;
+    color: transparent;
+    font-size: 17px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .carebox-home-page .text-wrapper-36 {
+    color: #cbcfd6;
+    text-decoration: underline;
+  }
+  
+  .carebox-home-page .symbol-4 {
+    width: 12px;
+    left: 15px;
+    position: absolute;
+    height: 16px;
+    top: 11px;
+    font-family: "Font Awesome 5 Free-Solid", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 16px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: 39px;
+    white-space: nowrap;
+  }
+  
+  .carebox-home-page .call-us {
+    position: absolute;
+    width: 145px;
+    height: 43px;
+    top: -2px;
+    left: 57px;
+    font-family: "Manrope-SemiBold", Helvetica;
+    font-weight: 600;
+    color: transparent;
+    font-size: 17px;
+    letter-spacing: 0;
+    line-height: 21px;
+  }
+  
+  .carebox-home-page .SVG-6 {
+    position: absolute;
+    width: 1440px;
+    height: 1px;
+    top: 0;
+    left: 0;
+  }
+  
+  .carebox-home-page .background-8 {
+    position: absolute;
+    width: 1440px;
+    height: 77px;
+    top: 522px;
+    left: 0;
+    background-color: #0a50b2;
+    border-top-width: 1px;
+    border-top-style: solid;
+    border-color: #2763b7;
+  }
